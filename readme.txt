@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Hours and Minutes Calculator](https://www.calculator.io/hours-and-minutes-calculator/ "Hours and Minutes Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_hours_and_minutes_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Hours and Minutes Calculator to the sidebar through the `Appearance -> Widgets -> Hours and Minutes Calculator` menu in WordPress.
+* Add the shortcode `[ci_hours_and_minutes_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_hours_and_minutes_calculator(); ?>` to your template where you would like the Hours and Minutes Calculator to appear.
 
 == Screenshots ==

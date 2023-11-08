@@ -12,9 +12,8 @@ This online hours calculator is an easy way to count hours and minutes at the to
 3. Activate the [Hours and Minutes Calculator](https://www.calculator.io/hours-and-minutes-calculator/ "Hours and Minutes Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_hours_and_minutes_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Hours and Minutes Calculator to the sidebar through the `Appearance -> Widgets -> Hours and Minutes Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_hours_and_minutes_calculator(); ?>` to your template where you would like the Hours and Minutes Calculator to appear.
+* Add the shortcode `[ci_hours_and_minutes_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_hours_and_minutes_calculator(); ?>` to your template where you would like the Hours and Minutes Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
