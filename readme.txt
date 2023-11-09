@@ -13,6 +13,8 @@ This online hours calculator is an easy way to count hours and minutes at the to
 
 This online hours calculator is an easy way to count hours and minutes at the touch of a button.
 
+[Hours and Minutes Calculator Homepage](https://www.calculator.io/hours-and-minutes-calculator/ "Hours and Minutes Calculator Homepage")
+
 __Shortcode__
 
 Use the Hours and Minutes Calculator shortcode:
