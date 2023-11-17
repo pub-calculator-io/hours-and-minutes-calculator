@@ -1,6 +1,6 @@
 === Hours and Minutes Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: hours and minutes calculator, time calculator, time addition calculator, time subtraction calculator, time converter, calculate hours and minutes, time duration calculator, add hours and minutes, subtract hours and minutes, time addition and subtraction
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
