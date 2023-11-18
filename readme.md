@@ -1,4 +1,4 @@
-# Hours and Minutes Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Hours and Minutes Calculator Widget for WordPress
 
 This online hours calculator is an easy way to count hours and minutes at the touch of a button.
 
