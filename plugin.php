@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Hours and Minutes Calculator by www.calculator.io
+Plugin Name: CI Hours and minutes calculator
 Plugin URI: https://www.calculator.io/hours-and-minutes-calculator/
 Description: This online hours calculator is an easy way to count hours and minutes at the touch of a button.
 Version: 1.0.0
