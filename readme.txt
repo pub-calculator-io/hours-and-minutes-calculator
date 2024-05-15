@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Hours and Minut
 == Screenshots ==
 
 1. The Hours and Minutes Calculator Input Form.
-2. The Hours and Minutes Calculator Calculation Results.
 
 == Installation ==
 

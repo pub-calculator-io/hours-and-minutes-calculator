@@ -3,7 +3,6 @@
 This online hours calculator is an easy way to count hours and minutes at the touch of a button.
 
 ![Hours and Minutes Calculator Input Form](/assets/images/screenshot-1.png "Hours and Minutes Calculator Input Form")
-![Hours and Minutes Calculator Calculation Results](/assets/images/screenshot-2.png "Hours and Minutes Calculator Calculation Results")
 
 ## Installation
 
